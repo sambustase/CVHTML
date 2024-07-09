@@ -1,0 +1,13 @@
+.perfil{
+    background-color: #c9d3df;
+}
+.contacto{
+    display: flex;
+    justify-content: center;
+}
+.educacion{
+    background-color: bisque;
+}
+.experiencia{
+    background-color: rgb(186, 250, 205);
+}
